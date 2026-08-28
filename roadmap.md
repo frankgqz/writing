@@ -1,1 +1,2 @@
-auto into epub pdf
+auto sheets into epub pdf
+scheduled update
