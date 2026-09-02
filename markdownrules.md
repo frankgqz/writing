@@ -4,7 +4,7 @@ These are the elements outlined in John Gruber’s original design document. All
 Element	Markdown Syntax
 Heading	
 
-## H1
+# H1
 ## H2
 ### H3
 
@@ -17,7 +17,7 @@ Italic
 *okay*
 
 ==ofkdsa==
-
+> yes
 
 Blockquote	
 > blockquote
