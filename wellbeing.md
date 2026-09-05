@@ -23,5 +23,6 @@ uniqueness
 - spirit will guide you
 
 capacity 
-- holding
+- holdin
+
 
