@@ -1,18 +1,27 @@
-do i wanna write a book on this thing ha hmm I guess word wrap is good for now
+for gabby's bf
 
-still not sure where to write this
+make decisions
+- not mind 
+- not emotions 
+- sacral, splenic, will, hear self, environment, lunar
 
-people rejecting me based on vibe
-
+internal sensations
+- opposing -> bracing -> allowing -> turning toward -> embracing -> unmanaging -> not existing
+- no stance
+- messages/lessons 
 
 energy
-accurate addresses
+- stored
+- goes from full to empty, high pressure to low pressure
+- reveals information 
 
-you
-one light
-
-love
-allowing no stance
+attention
 
 uniqueness
+- living
+- whatever happens, I'm here, with choice in how to deal with it
+- spirit will guide you
+
+capacity 
+- holding
 
