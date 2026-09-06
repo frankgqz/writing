@@ -1,28 +1,47 @@
 for gabby's bf
 
-make decisions
+#decisions
 - not mind 
 - not emotions 
 - sacral, splenic, will, hear self, environment, lunar
 
-internal sensations
+#internal sensations
 - opposing -> bracing -> allowing -> turning toward -> embracing -> unmanaging -> not existing
 - no stance
 - messages/lessons 
 
-energy
+#energy
 - stored
 - goes from full to empty, high pressure to low pressure
-- reveals information 
+- people who read energy have extra information about their life
 
-attention
+#water has memory
+- responds to thought emotion and intention, energy
+		frozen ice, time experiments
+- food and humans are water
+		
+#attention
+- shining expansion
 
-uniqueness
+
+#uniqueness
 - living
 - whatever happens, I'm here, with choice in how to deal with it
 - spirit will guide you
 
 capacity 
-- holdin
+- holding energy in system
+
+
+*italic*
+**bold**
+#heading
+
+`code`
+		tabbed
+> block
+- list
+1. list
+
 
 
