@@ -17,9 +17,14 @@ for gabby's bf
 
 #water has memory
 - responds to thought emotion and intention, energy
-		frozen ice, time experiments
+		dr imouto, veda austin, frozen ice
+		time experiments on food, plants
 - food and humans are water
-		
+
+#energy of self
+- loving, light, emptiness 
+- one space : one time = light
+
 #attention
 - shining expansion
 
