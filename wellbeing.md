@@ -1,9 +1,11 @@
 for gabby's bf
 
 #decisions
-- not mind 
-- not emotions 
+- not thoughts
+		- can be from spirit
+- not emotions
 - sacral, splenic, will, hear self, environment, lunar
+- illogical (better than logic)
 
 #internal sensations
 - opposing -> bracing -> allowing -> turning toward -> embracing -> unmanaging -> not existing
@@ -12,8 +14,9 @@ for gabby's bf
 
 #energy
 - stored
+- lingering vibe
 - goes from full to empty, high pressure to low pressure
-- people who read energy have extra information about their life
+- people who read energy have extra information about life
 
 #water has memory
 - responds to thought emotion and intention, energy
@@ -38,13 +41,17 @@ capacity
 - holding energy in system
 
 
-*italic*
-**bold**
-#heading
+#I exist
+#the one is the all
+#what I put out is what I get back
 
+
+*italic*
+#heading
+> indent
 `code`
 		tabbed
-> block
+**bold**
 - list
 1. list
 
