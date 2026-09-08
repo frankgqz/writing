@@ -46,14 +46,14 @@ capacity
 #what I put out is what I get back
 
 
-*italic*
 #heading
 > indent
 `code`
 		tabbed
-**bold**
+ space
 - list
 1. list
 
-
+**bold**
+*italic*
 
