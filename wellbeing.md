@@ -9,12 +9,16 @@ decide with your inner authority
   - sacral, splenic, will, hear self, environment, lunar
 
 #external & internal experience
-love
-no stance, openness
+can choose how to respond to life
+can love all experience 
+can love all sensations/feelings
+> openness
+no stance, no defence
 - opposing -> bracing -> allowing -> turning toward / welcoming -> embracing -> unmanaging -> not existing
-- feeling is healing
 - resisting is dis-ease
-- message. what is the next step?
+- feeling is healing
+- message. the next step?
+- supressing cuts warning light
 
 #communication
 1. informational
