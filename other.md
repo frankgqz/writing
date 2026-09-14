@@ -22,3 +22,8 @@ skills - internal see hear feel
  logic for #what I put out is what I get back
  
 *italic*
+
+
+
+ ""333""..... slow 
+ slow 

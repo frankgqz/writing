@@ -8,8 +8,7 @@ decide with your inner authority
 > human design authorities
   - sacral, splenic, will, hear self, environment, lunar
 
-#external situations
-#internal sensations
+#external & internal experience
 love
 no stance, openness
 - opposing -> bracing -> allowing -> turning toward / welcoming -> embracing -> unmanaging -> not existing
@@ -17,6 +16,15 @@ no stance, openness
 - resisting is dis-ease
 - message. what is the next step?
 
+#communication
+1. informational
+2. personal / opinions
+3. reveal experience
+> authentic relating
+		being here I notice...
+		hearing that I notice...
+		you're slow (1) i'm hurt (3)
+		
 #energy
 - stored
 - lingering vibe
@@ -36,6 +44,7 @@ no stance, openness
 #attention
 - shining expansion
 
+#communicatingn with spirit
 
 #uniqueness
 - living
