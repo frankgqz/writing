@@ -1,16 +1,21 @@
 for gabby's bf
 
 #decisions
-- not thoughts
-		- can be from spirit
-- not emotions
-- sacral, splenic, will, hear self, environment, lunar
-- illogical (better than logic)
+don't decide by emotions or thoughts
+		- clarity after emotional waves
+		- thoughts are ideas, not you
+decide with your inner authority
+> human design authorities
+  - sacral, splenic, will, hear self, environment, lunar
 
+#external situations
 #internal sensations
-- opposing -> bracing -> allowing -> turning toward -> embracing -> unmanaging -> not existing
-- no stance
-- messages/lessons 
+love
+no stance, openness
+- opposing -> bracing -> allowing -> turning toward / welcoming -> embracing -> unmanaging -> not existing
+- feeling is healing
+- resisting is dis-ease
+- message. what is the next step?
 
 #energy
 - stored
@@ -36,6 +41,7 @@ for gabby's bf
 - living
 - whatever happens, I'm here, with choice in how to deal with it
 - spirit will guide you
+easier to be your full potential than 
 
 capacity 
 - holding energy in system
