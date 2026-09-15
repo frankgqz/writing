@@ -22,3 +22,24 @@ skills - internal see hear feel
  logic for #what I put out is what I get back
  
 *italic*
+
+
+#heading
+> indent
+`code`
+		tabbed
+ space
+- list
+1. list
+**bold**
+*italic*
+
+#heading
+> indent
+`code`
+		tabbed
+ space
+- list
+1. list
+**bold**
+*italic*

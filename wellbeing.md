@@ -1,3 +1,13 @@
+#heading
+> indent
+`code`
+		tabbed
+ space
+- list
+1. list
+**bold**
+*italic*
+
 for gabby's bf
 
 #decisions
@@ -56,23 +66,12 @@ no stance, no defence
 - spirit will guide you
 easier to be your full potential than 
 
-capacity 
-- holding energy in system
+> capacity 
+holding energy in system
 
 
 #I exist
 #the one is the all
 #what I put out is what I get back
 
-
-#heading
-> indent
-`code`
-		tabbed
- space
-- list
-1. list
-
-**bold**
-*italic*
 
