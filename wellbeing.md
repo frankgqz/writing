@@ -1,34 +1,26 @@
-#heading
-> indent
-`code`
-		tabbed
- space
-- list
-1. list
-**bold**
-*italic*
+
 
 for gabby's bf
 
 #decisions
-don't decide by emotions or thoughts
+> don't decide by emotions/thoughts
 		- clarity after emotional waves
 		- thoughts are ideas, not you
-decide with your inner authority
-> human design authorities
+> decide with inner authority
+		human design authorities
   - sacral, splenic, will, hear self, environment, lunar
 
 #external & internal experience
-can choose how to respond to life
-can love all experience 
-can love all sensations/feelings
+how we experience life
+can choose how we respond to life
+love experience/sensations/feelings
 > openness
 no stance, no defence
 - opposing -> bracing -> allowing -> turning toward / welcoming -> embracing -> unmanaging -> not existing
 - resisting is dis-ease
+- supressing cuts warning message
 - feeling is healing
-- message. the next step?
-- supressing cuts warning light
+- feeling, what's it saying?
 
 #communication
 1. informational

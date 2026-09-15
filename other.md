@@ -43,3 +43,14 @@ skills - internal see hear feel
 1. list
 **bold**
 *italic*
+
+#heading
+> indent
+`code`
+		tabbed
+ space
+- list
+1. list
+**bold**
+*italic*
+ep
