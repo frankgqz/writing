@@ -9,3 +9,7 @@ https://github.com/frankgqz/theme
 
 and for now I wont do any conversion of pdf
 it will just be to present md files
+
+
+need to learn store, implement here
+need to learn gallery video 

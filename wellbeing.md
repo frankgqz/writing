@@ -1,7 +1,5 @@
 
 
-for gabby's bf
-
 #decisions
 > don't decide by emotions/thoughts
 		- clarity after emotional waves
@@ -32,8 +30,10 @@ no stance, no defence
 		you're slow (1) i'm hurt (3)
 		
 #energy
-- stored
-- lingering vibe
+the base energy of universe is light
+- stored data 
+- linger vibe, deviations from light 
+
 - goes from full to empty, high pressure to low pressure
 - people who read energy have extra information about life
 
@@ -50,7 +50,8 @@ no stance, no defence
 #attention
 - shining expansion
 
-#communicatingn with spirit
+#communicating with spirit
+leave them alone
 
 #uniqueness
 - living
