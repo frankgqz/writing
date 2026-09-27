@@ -62,6 +62,8 @@ easier to be your full potential than
 > capacity 
 holding energy in system
 
+privacy 
+spirits can watch
 
 #I exist
 #the one is the all
