@@ -1,9 +1,6 @@
-Basic Syntax
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+Basic Syntax. These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements. Element	Markdown Syntax
 
-Element	Markdown Syntax
 Heading	
-
 # H1
 ## H2
 ### H3
@@ -13,8 +10,8 @@ Bold
 
 Italic	
 *okay*
-*italicized text*
 *okay*
+*italicized text*
 
 ==ofkdsa==
 > yes
@@ -88,7 +85,7 @@ Strikethrough
 
 Task List	
 - [x] Write the press release
-- [ ] Update the website
+- [x] Update the website
 - [ ] Contact the media
 
 Emoji
